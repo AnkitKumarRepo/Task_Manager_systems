@@ -1,5 +1,21 @@
 # TaskFlow — Task Management System
 
+## Screenshots
+
+### Login
+![Login Page](screenshots/login.png)
+
+### Add_new_task
+![Add_new_task Page](screenshots/Add_new_task.png)
+
+### Create_account
+![Create_account](screenshots/Create_account.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+
+
 A full-stack task management app built with **Node.js + TypeScript** (backend) and **Next.js 14** (frontend).
 
 ---
@@ -131,4 +147,8 @@ npm run dev
    cd backend && npm run build && npm start
    # Frontend
    cd frontend && npm run build && npm start
+
    ```
+
+
+
